@@ -1,0 +1,5 @@
+Ventas totales de la cafetería (según la caja):
+julio 2026: $3.980.000
+agosto 2026: $4.120.000
+septiembre 2026: $4.050.000
+Del total, las ventas por apps de delivery fueron: julio $770.000, agosto $955.000, septiembre $1.140.000.

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: informe-gastos-simple
+expected_outcome: |
+  Un informe HTML de una página, en lenguaje simple, con la conclusión arriba, al menos un gráfico de los gastos, cifras que dicen de dónde salen y recomendaciones concretas de recorte con montos; sin desbordes en celular.
+context:
+  scaffold_script: place-files.sh
